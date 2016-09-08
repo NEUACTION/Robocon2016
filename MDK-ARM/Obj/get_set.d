@@ -1,0 +1,12 @@
+.\obj\get_set.o: ..\Action_User\GET_SET.c
+.\obj\get_set.o: ..\Action_User\GET_SET.h
+.\obj\get_set.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\get_set.o: ..\Action_User\elmo.h
+.\obj\get_set.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\get_set.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\get_set.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\get_set.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\get_set.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\get_set.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\get_set.o: ..\Action_User\action_math.h
+.\obj\get_set.o: ..\Action_User\walk.h

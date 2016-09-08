@@ -1,0 +1,15 @@
+.\obj\debug.o: ..\Action_User\debug.c
+.\obj\debug.o: ..\Action_User\debug.h
+.\obj\debug.o: ..\Action_User\usart.h
+.\obj\debug.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\obj\debug.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\debug.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\debug.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\debug.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\debug.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\debug.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\debug.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\debug.o: ..\Action_User\adc.h
+.\obj\debug.o: ..\Action_User\GET_SET.h
+.\obj\debug.o: ..\Action_User\walk.h
+.\obj\debug.o: ..\Action_User\action_math.h

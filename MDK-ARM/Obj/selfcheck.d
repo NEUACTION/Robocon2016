@@ -1,0 +1,10 @@
+.\obj\selfcheck.o: ..\Action_User\SelfCheck.c
+.\obj\selfcheck.o: ..\Action_User\SelfCheck.h
+.\obj\selfcheck.o: ..\Action_User\ELmo.h
+.\obj\selfcheck.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\selfcheck.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\selfcheck.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\selfcheck.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\selfcheck.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\selfcheck.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\selfcheck.o: ..\Libraries\CMSIS\system_stm32f4xx.h
