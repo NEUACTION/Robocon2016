@@ -8,10 +8,10 @@
 
 ### 路径相关说明
 
-    旋转方向 |Angle    |  Gyro_Union.GyroAngle 
-  ------|-----|-----------
-  顺时针自旋- | increase | decrease   
-  逆时针自旋+ | decrease | increase
+旋转方向 |Angle    |  Gyro_Union.GyroAngle 
+------|-----|-----------
+顺时针自旋- | increase | decrease   
+逆时针自旋+ | decrease | increase
 
 
 全程轨迹长度|19485.68mm   、改良后：19227.750
